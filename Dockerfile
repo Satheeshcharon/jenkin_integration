@@ -15,7 +15,7 @@ ENV PYTHONUNBUFFERED 1
 
 # copy project
 COPY . /app
-RUN pip install -r requirements.txt
+RUN pip install -r /app/requirements.txt
 
 EXPOSE 8000
 
