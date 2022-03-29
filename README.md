@@ -1,2 +1,2 @@
 
-# CI/CD with Jenkins using Docker , Django , AWS EC@
+# CI/CD with Jenkins using Docker , Django , AWS EC2
